@@ -10,7 +10,6 @@ namespace simpleShape
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome")
             Console.WriteLine("Please Enter an integer values");
             int times = Int32.Parse(Console.ReadLine());
           
